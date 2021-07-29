@@ -1,0 +1,8 @@
+baseURL = "https://jsonify.me/"
+languageCode = "en-us"
+title = "jsonify.me"
+theme = "book"
+email = "dan@jsonify.me"
+
+[params]
+    CopyrightHTML = "Copyright &#xA9; 2021 jsonify.me. All Rights Reserved."
